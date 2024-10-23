@@ -65,3 +65,4 @@ try:
 
 except ValueError:
     print(Fore.RED + "Oops! Please enter valid numbers for the measurements." + Style.RESET_ALL)
+    
